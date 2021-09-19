@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ADmv2</id>
+    <version>1.0.0</version>
+    <authors>ADmv2</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="FontAwesome.Sharp" version="5.15.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\TagoKG\source\repos\ADmv2\bin\Debug\netcoreapp3.1\ADmv2.runtimeconfig.json" target="lib\netcoreapp3.1\ADmv2.runtimeconfig.json" />
+    <file src="C:\Users\TagoKG\source\repos\ADmv2\bin\Debug\netcoreapp3.1\ADmv2.dll" target="lib\netcoreapp3.1\ADmv2.dll" />
+  </files>
+</package>

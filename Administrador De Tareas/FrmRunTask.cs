@@ -4,12 +4,10 @@ using System.ComponentModel;
 using System.Data;
 using System.Diagnostics;
 using System.Drawing;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Administrador_De_Tareas
+namespace ADmv2
 {
     public partial class FrmRunTask : Form
     {
@@ -20,7 +18,7 @@ namespace Administrador_De_Tareas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(!String.IsNullOrEmpty(textBox1.Text))
+              if(!String.IsNullOrEmpty(textBox1.Text))
             {
                 try
                 {

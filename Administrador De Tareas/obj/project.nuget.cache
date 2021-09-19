@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pva1YPWstl0rG3jy2ItlbQQc6BQO8+dAccbg8Y7vnSGXT9l14E1T2CgtYn7hhTbMdVuJYkRrHyZN1kzrRCmx7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TagoKG\\source\\repos\\ADmv2\\ADmv2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TagoKG\\.nuget\\packages\\fontawesome.sharp\\5.15.3\\fontawesome.sharp.5.15.3.nupkg.sha512",
+    "C:\\Users\\TagoKG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
